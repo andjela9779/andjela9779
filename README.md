@@ -1,7 +1,7 @@
 ## Pozdrav svima! Ja sam Anđela 👋
 Dobrodošli na moj GitHub profil!
 
-- 💡 O meni
+## 💡 O meni
 - 🎓 Studentica treće godine preddiplomskog studija
 - 👩‍💻 Trenutno učim Javu, JavaScript, Python i baze podataka(MS Access i MS SQL)
 - 👩‍🏫 Radim kao demonstrator na svom fakultetu
