@@ -18,4 +18,4 @@ Evo nekih od projekata koje možete pronaći u mojim repozitorijima:
 - [Čekaonica u ambulanti](https://github.com/andjela9779/Ambulanta_Cekaonica): Program koji upravlja čekaonicom u ambulanti doma zdravlja, gdje na početku unosimo podatke doktora, zatim imamo opciju da unesemo podatke o novim pacijentima u čekaonici, završenom pregledu određenog pacijenta, da ispišemo listu pacijenata u čekaonici, da ispišemo listu slobodnih doktora, listu trenutnih pregleda, i da prekinemo rad ambulante, čime se prekida izvršavanje programa.
 - [LandingPage](https://github.com/andjela9779/LandingPage): Landing Page program predstavlja neku vrstu personaliziranog podsjetnika, bilješki ili to do liste. Također ispisuje trenutno vrijeme, a pozadinska slika se mijenja ovisno o tome koje je doba dana.
 
-##🔍 Slobodno istražite moje repozitorije kako biste pronašli više mojih projekata!
+## 🔍 Slobodno istražite moje repozitorije kako biste pronašli više mojih projekata!
