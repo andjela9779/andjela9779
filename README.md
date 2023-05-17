@@ -8,7 +8,7 @@ Dobrodošli na moj GitHub profil!
 - 💬 Tečno govorim engleski jezik
 
 ## 💼 Iskustvo
-Kao demonstratorica na svom fakultetu, imam ulogu mentoriranja i vođenja studenata u učenju. Ova uloga poboljšala je moje komunikacijske vještine i produbila moje razumijevanje određenih pojmova vezanih za moju struku, omogućujući mi da iste teme objasnim s što većom jasnoćom i preciznošću.
+Kao demonstratorica na svom fakultetu, imam ulogu mentoriranja i vođenja studenata u učenju, te obavljanja određenih administrativnih poslova. Ova uloga poboljšala je moje komunikacijske vještine i produbila moje razumijevanje određenih pojmova vezanih za moju struku, omogućujući mi da iste teme objasnim s što većom jasnoćom i preciznošću.
 
 ## 🚀 Projekti
 Evo nekih od projekata koje možete pronaći u mojim repozitorijima:
