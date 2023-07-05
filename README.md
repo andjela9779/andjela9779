@@ -13,7 +13,7 @@ Kao demonstratorica na svom fakultetu, imam ulogu mentoriranja i vođenja studen
 ## 🚀 Projekti
 Evo nekih od projekata koje možete pronaći u mojim repozitorijima:
 
-- [Aluminij Industries d.o.o. - Web Stranica] (https://aluminijindustries.000webhostapp.com/index.html): Web stranica rađena tijekom prakse u Aluminij Industries d.o.o. Početna stranica, te login/sign up stranice, povezane sa bazom podataka.
+- [Aluminij Industries d.o.o. - Web Stranica](https://github.com/andjela9779/Aluminij-Industries): Web stranica rađena tijekom prakse u Aluminij Industries d.o.o. Početna stranica, te login/sign up stranice, povezane sa bazom podataka.
 - [Pariz - Web Stranica](https://github.com/andjela9779/Pariz_web_stranica): Web stranica o Parizu rađena kao projekt za kolegij Web dizajn.
 - [Vremenska prognoza](https://github.com/andjela9779/VremenskaPrognoza): Web aplikacija koja prvo traži od korisnika da omogući pristup lokaciji, zatim traži da unese naziv mjesta, te dohvaća podatke o trenutnoj vremenskoj prognozi. Klikom na temperaturu u Celzijevim stupnjevima, vrši se konverzija u Fahrenheite, i obratno.
 - [Čekaonica u ambulanti](https://github.com/andjela9779/Ambulanta_Cekaonica): Program koji upravlja čekaonicom u ambulanti doma zdravlja, gdje na početku unosimo podatke doktora, zatim imamo opciju da unesemo podatke o novim pacijentima u čekaonici, završenom pregledu određenog pacijenta, da ispišemo listu pacijenata u čekaonici, da ispišemo listu slobodnih doktora, listu trenutnih pregleda, i da prekinemo rad ambulante, čime se prekida izvršavanje programa.
